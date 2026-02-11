@@ -1,5 +1,9 @@
 {
   "editor.formatOnSave": true,
   "editor.tabSize": 2,
-  "editor.wordWrap": "on"
+  "editor.wordWrap": "on",
+  "editor.minimap.enabled": false,
+  "editor.inlineSuggest.enabled": true,
+  "editor.suggestSelection": "first",
+  "files.autoSave": "afterDelay"
 }
