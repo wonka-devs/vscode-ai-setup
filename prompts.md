@@ -1,20 +1,42 @@
-## Debug Prompt
+# CodeBoost Prompt Pack (Basic Version)
 
-I am using [language] with [framework].
+## 1. Debug Framework Prompt
+
+I am working with:
+Language:
+Framework:
+Version:
+
+Expected behavior:
+Actual behavior:
+
 Here is the full error:
 
 [PASTE ERROR]
 
 Explain:
-1. What is causing this error.
-2. The likely root cause.
-3. Step-by-step solution.
-4. Provide corrected code.
+1. Root cause
+2. Why it happened
+3. Step-by-step solution
+4. Provide corrected code
+
 
 ---
 
-## Refactor Prompt
+## 2. Refactor Prompt
 
-Refactor the following code to improve readability and maintain best practices:
+Refactor the following code to improve readability and maintain best practices.
+Explain what was improved and why.
 
 [CODE]
+
+
+---
+
+## 3. Learning Mode Prompt
+
+Explain this code in simple terms.
+Highlight:
+- Core concept
+- Possible edge cases
+- Common mistakes
