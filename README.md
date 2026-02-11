@@ -35,3 +35,27 @@ Less friction.
 More velocity.  
 Better code.
 
+---
+
+## CodeBoost Method
+
+A practical 5-step workflow to solve coding problems using AI more effectively:
+
+1. Define your environment (language, framework, version).
+2. Provide full error context, not just the message.
+3. Ask for diagnosis before asking for solution.
+4. Request step-by-step reasoning.
+5. Refine and iterate until the issue is fully resolved.
+
+This reduces random trial-and-error and improves debugging speed.
+
+---
+
+## CodeBoost Starter (Private Version)
+
+The private version includes:
+- Extended prompt pack
+- Structured debugging workflow guide
+- Organized setup instructions
+- Discord access for support and updates
+
