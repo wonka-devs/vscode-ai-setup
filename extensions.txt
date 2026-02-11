@@ -1,6 +1,15 @@
+# Core AI
 GitHub Copilot
 Codeium
+
+# Error & Debug
 Error Lens
+Better Comments
+
+# Code Quality
 ESLint
-Prettier
+Prettier - Code formatter
+
+# Productivity
+GitLens
 Thunder Client
