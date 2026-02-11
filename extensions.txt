@@ -1,0 +1,6 @@
+GitHub Copilot
+Codeium
+Error Lens
+ESLint
+Prettier
+Thunder Client
